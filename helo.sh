@@ -1,3 +1,3 @@
-echo "HI"
+echo "HI from main "
 
 
